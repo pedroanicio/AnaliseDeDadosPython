@@ -1,2 +1,0 @@
-Esse projeto tem como objetivo analisar uma base de dados de uma empresa de telecomunicação, verificar a quantidade exata de chruns e por fim criar gráficos e analisa-los,
-dando formas de controlar os cancelamentos de assinatura.
