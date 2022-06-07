@@ -1,7 +1,7 @@
 # passo 1: importar base de dados
 
 import pandas as pd
-tabela = pd.read_csv(r"C:\Users\pedra\Desktop\aulas python\aula2 - analise de dados\telecom_users.csv")
+tabela = pd.read_csv("telecom_users.csv")
 
 # passo 2: visualizar a base de dados
 # entender as informações que você tem disponível
